@@ -1,0 +1,12 @@
+{
+  "schema_version": "2.0",
+  "summary": {
+    "confirmed": 0,
+    "candidate": 0,
+    "suppressed": 0,
+    "verified": 1,
+    "partial_coverage": 73,
+    "skipped_stateless": 401
+  },
+  "confirmed_bugs": []
+}
